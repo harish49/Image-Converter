@@ -20,4 +20,4 @@ Black and White Image
 ![bw_00000003_(7)](https://user-images.githubusercontent.com/43724708/144387492-e073cd88-a7ef-463f-b57a-7331783c6d34.jpg)
 
 
-
+Copyright © 2021 Harish Vemula.
